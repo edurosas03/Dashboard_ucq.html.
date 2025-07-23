@@ -1,4 +1,4 @@
-# Dashboard_ucq.html.
+# dashboard-ucq
 Análisis de Universidades
 <!DOCTYPE html>
 <html lang="es">
